@@ -13,14 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 3Juhwan
+
 Hello! I'm a student who loves challenge! I'm an idealist!
 
-## Want to be a/an
+## ⭐ Want to be a/an
 
-- 💻 front-end developer
-- 🎨 Artist
-- 🤵 Entrepreneur
+- front-end developer
+- Artist
+- Entrepreneur
 
+## 💻 Experience
+
+- (20.04 - ) Sejong Univ, Web Club Open-Year-Round
+- (20.08 - 20.09) 우아한 형제, Tech-learning trainee
+
+<br/>
 
 <div align=center>
 
