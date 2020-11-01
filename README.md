@@ -13,7 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Want to be a front-end-developer ✨
+Hello! I'm a student who loves challenge! I'm an idealist!
+
+## Want to be a/an
+
+- 💻 front-end developer
+- 🎨 Artist
+- 🤵 Entrepreneur
+
 
 <div align=center>
 
