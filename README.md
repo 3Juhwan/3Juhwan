@@ -3,7 +3,7 @@
 - **세종대학교 개발 동아리 GREEDY 1, 2기 운영진** [24.11 ~ 현재]
   - [GREEDY TEAM](https://github.com/greedy-team)
   - [GREEDY 활동 회고](https://3juhwan.tistory.com/53)
-- **우아한테크코스 6기 BE** [24.02 ~ 24.11]
+- **우아한테크코스 6기 BE 수료** [24.02 ~ 24.11]
   - [WOOWACOURSE](https://www.woowacourse.io/)
 - **세종대학교 수강신청 보조 사이트 ALLCLL 운영** [23.08 ~ 현재]
   - [ALLCLL](http://allcll.kr/)
