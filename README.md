@@ -8,6 +8,6 @@
 - **세종대학교 수강신청 보조 사이트 ALLCLL 운영** [23.08 ~ 현재]
   - [ALLCLL](http://allcll.kr/)
 - **알고리즘 문제 해결** [21.02 ~ 22.12]
-  - [ICPC 본선 42nd](http://static.icpckorea.net/20221119/scoreboard/)
-  - [codeforces Expert](https://codeforces.com/profile/3juhwan)
-  - [solved.ac D5](https://solved.ac/profile/3juhwan)
+  - [ICPC 2022 본선 - 42nd](http://static.icpckorea.net/20221119/scoreboard/)
+  - [Codeforces - Expert](https://codeforces.com/profile/3juhwan)
+  - [Solved.ac - D5](https://solved.ac/profile/3juhwan)
